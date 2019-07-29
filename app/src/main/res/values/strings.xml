@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="OK">OK</string>
+    <string name="add">+</string>
+    <string name="min">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="answer"></string>
+</resources>
